@@ -21,5 +21,7 @@ Even though the tool supports BT3 AFS files of any region, it is far from perfec
 ![image](https://github.com/user-attachments/assets/817f90dc-0789-486c-8362-310a0a907a7a)
 ## Scenario Folders
 ![image](https://github.com/user-attachments/assets/0e8347b2-9ffd-4e2b-b49c-7df575de6b22)
-## Remaining PZS3US1 folders
+## Remaining Folders
+![image](https://github.com/user-attachments/assets/c97b0caf-a3fd-4839-b5eb-3d490a0b5950)
+
 ![image](https://github.com/user-attachments/assets/51f8411f-5bcb-41b9-8990-0bb92429dc9e)
